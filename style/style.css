@@ -23,3 +23,7 @@
 .list-group-item:hover {
   background: #eee;
 }
+
+.container{
+  background: #fafafa;
+}
